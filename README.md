@@ -18,4 +18,4 @@ commit commands
 git commit -m "message here"
 
 push updates
-git push origin master
+git push origin main
